@@ -1,0 +1,23 @@
+{
+  "name": "FindAlt",
+  "manifest_version": 2,
+  "version": "0.7",
+  "description": "Find Alternatives",
+  "browser_action": {
+    "default_icon": "icon_default.png"
+  },
+  "permissions": [],
+  "background": {
+    "scripts": ["eventPage.js"],
+    "persistent": false
+  },
+  "web_accessible_resources": ["loading.gif", "icon2.png"] ,
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["alts.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}
