@@ -13,4 +13,4 @@
 ### Notes:
 - You can assign a keyboard shortcut to activate it too. 
   Visit [chrome://extensions/](chrome://extensions/) and click "Keyboard shortcuts" at the bottom of the page.
-- A small background window is opened when you activate the extension. If you close that window, click the extension again to reactivate. 
+- When you search for alternatives to "abc", a web search is done in the background to grep for "abc vs xyz" form of autocomplete suggestions (If you close the background window, click on the extensions to reactivate it).
