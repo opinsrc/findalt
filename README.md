@@ -6,7 +6,7 @@
 - Click extension icon <img src="http://i.imgur.com/zUXJO60.png" width="16"> to activate
 - Double click a word(s) OR Select a word(s) & hit `CTRL + I` 
 
-![Alternatives Screenshot](http://i.imgur.com/8cTHmsR.png)
+<div style="display:inline-block;"><img src="http://i.imgur.com/8cTHmsR.png">&nbsp;&nbsp;<img src="http://i.imgur.com/cugBAf2.png"></div>
 
 ### Notes:
 - You can assign a keyboard shortcut to activate it too. 
